@@ -3069,4 +3069,5 @@ PRODUCT_PACKAGES += \
     umfw_stat_tool \
     usb_accessory_utils \
     usf_stats \
-    wfc-pkt-router
+    wfc-pkt-router \
+    GoogleCamera
